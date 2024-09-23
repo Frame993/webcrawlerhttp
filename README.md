@@ -8,6 +8,6 @@ The program will analyze a webpage and perform the following:
 This will offer a structured overview of the navigation paths and their respective link densities on the webpage.
 
 # How to run ?
-1. **Clone repository
-2. **npm install
-3. **npm run start <http://webexample.com> 
+1. **Clone repository**
+2. **npm install**
+3. **npm run start <http://webexample.com>**
